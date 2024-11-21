@@ -1,10 +1,10 @@
-## Olá! Eu sou o Pedro Martins, atualmente estudante de Ciência da Computação 3° semestre.
+## Olá! Eu sou o Pedro Martins, atualmente estudante de Ciência da Computação 3° semestre na UCDB.
 
 
 <div align="center">
   <a href="https://github.com/ppedromartins">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ppedromartins&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppedromartins&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ppedromartins11&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppedromartins11&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
